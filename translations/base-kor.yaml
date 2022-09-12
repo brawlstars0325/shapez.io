@@ -48,9 +48,9 @@ global:
         shift: SHIFT
         space: SPACE
     loggingIn: 로그인 중
-    loadingResources: Downloading additional resources (<percentage> %)
+    loadingResources: 추가 리소스 다운로드 중 (<percentage> %)
     discount: -<percentage>%
-    discountSummerSale: SPECIAL PROMOTION! Offer ends 7 July
+    discountSummerSale: 스페셜 세일! 7월 7일에 
 demoBanners:
     title: 체험판 버전
     intro: |-
@@ -90,13 +90,13 @@ mainMenu:
     puzzleDlcWishlist: 지금 찜 목록에 추가하세요!
     puzzleDlcViewNow: DLC 보러 가기
     mods:
-        title: Active Mods
+        title: 적용된 모드들
         warningPuzzleDLC: 퍼즐 DLC는 모드와 호환되지 않습니다. DLC 플레이 전 모든 모드를 비활성화 해주세요.
-    playingFullVersion: You are now playing the full version!
-    logout: Logout
-    noActiveSavegames: No active savegames found - Click play to start a new game!
-    playFullVersionV2: Bough shapez on Steam? Play the full version in your Browser!
-    playFullVersionStandalone: You can now also play the full version in your Browser!
+    playingFullVersion: 당신은 지금 정식 버전을 플레이하고있습니다!
+    logout: 로그아웃
+    noActiveSavegames: 저장한 게임이 없습니다 - 여기를 눌러서 새 게임을 시작하세요!
+    playFullVersionV2: 스팀에서 shapez 를 샀나요? 그럼 당신의 브라우저에서 정식 버전을 플레이하세요!
+    playFullVersionStandalone: 당신은 또한 당신의 브라우저에서 정식 버전을 플레이할 수 있습니다!
 dialogs:
     buttons:
         ok: 확인
